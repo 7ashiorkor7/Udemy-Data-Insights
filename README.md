@@ -1,0 +1,2 @@
+# Udemy-Data-Insights
+A team course project for python for data science. Under the scope of the course work, we are required to do an exploratory data analysis on the dataset provided to us using the techniques taught in the course. We will use Udemy Courses dataset for this project. This is a dataset which contains complete data for subjects (Business Finance, Graphic Design, Musical Instruments and Web Design) subscribed through 2011-2017.
